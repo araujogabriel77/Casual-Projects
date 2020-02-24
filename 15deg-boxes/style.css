@@ -1,0 +1,191 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+ul, ol, li {
+    list-style: none;
+}
+.btn {
+    position: absolute;
+    text-decoration: none;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 22px;
+    color: white;
+    right: 22%;
+    top: 42%;
+    height: 80px;
+    width: 100px;
+    border-radius: 4px;
+    background: #968f34c2;
+    cursor: pointer;
+    transition: all .4s;
+}
+.btn:hover {
+    transform: scale(1.1);
+    color: #968f34c2;
+    background: white;
+    border: 1px solid #968f34c2;
+}
+.off {
+    background-color: black;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: all 1s;
+}
+.q1 {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background: #f54242;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all .25s;
+}
+.q2 {
+    position: absolute;
+    width: 380px;
+    height: 380px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #ff7b1c;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all .5s;
+}
+.q3 {
+    position: absolute;
+    width: 360px;
+    height: 360px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #fff41c;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all .75s;
+}
+.q4 {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #86ff1c;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all 1s;
+}
+.q5 {
+    position: absolute;
+    width: 320px;
+    height: 320px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #1cff8a;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all 1.25s;
+}
+.q6 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #1cfffb;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all 1.5s;
+}
+.q7 {
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #1c46ff;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all 1.75s;
+}
+.q8 {
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #731cff;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all 2s;
+}
+.q9 {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #ca1cff;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all 2.25s;
+}
+.q10 {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #ff1cd5;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all 2.5s;
+}
+.q11 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #ff1c7b;
+    box-shadow: inset white 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all 2.75s;
+}
+.q12 {
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background: #968f34;;
+    box-shadow: inset #fff 1px 1px 1px 1px;
+    border-radius: 4px;
+    transition: all 3s;
+}
