@@ -15,3 +15,7 @@
 - Responsive Navbar;
 
 ![gif-navbar-flamengo](https://github.com/araujogabriel77/Casual-Projects/blob/master/gif-navfla.gif)
+
+## Rock, paper, scissors - Game prototype
+
+![gif-navbar-flamengo](https://github.com/araujogabriel77/Casual-Projects/blob/master/rockpaperscissors.gif)
